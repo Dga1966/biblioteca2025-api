@@ -1,1 +1,4 @@
-export class CreateAutoreDto {}
+export class CreateAutoreDto {
+    nombre: string;
+    nacionalidad: string;
+}
